@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>BF3512CB-FE6C-4192-B755-79E6CD6C5F07</string>
+	<key>IDESourceControlProjectName</key>
+	<string>BounceyBalls</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>AA791299758BC0FF4CEFA7ABCA509A2972A814AC</key>
+		<string>https://github.com/shabbirh/Physics-Demos.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>BounceyBalls/BounceyBalls.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>AA791299758BC0FF4CEFA7ABCA509A2972A814AC</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/shabbirh/Physics-Demos.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>AA791299758BC0FF4CEFA7ABCA509A2972A814AC</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>AA791299758BC0FF4CEFA7ABCA509A2972A814AC</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Physics-Demos</string>
+		</dict>
+	</array>
+</dict>
+</plist>
